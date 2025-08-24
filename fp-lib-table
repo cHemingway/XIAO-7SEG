@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "XIAO RP2040 HAT")(type "KiCad")(uri "${KIPRJMOD}/XIAO 7SEG.pretty")(options "")(descr ""))
+)
