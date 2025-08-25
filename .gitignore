@@ -41,3 +41,6 @@ fp-info-cache
 
 # OSX
 .DS_Store
+
+# Production (PCBWay plugin)
+production/*
