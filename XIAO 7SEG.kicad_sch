@@ -1956,7 +1956,7 @@
 		)
 		(uuid "ffa1e0b5-ab9f-49b4-ac63-f8812faef8b6")
 	)
-	(label "SCK"
+	(label "D8"
 		(at 69.85 97.79 0)
 		(effects
 			(font
@@ -1966,7 +1966,7 @@
 		)
 		(uuid "03d6a739-a20e-48e0-80f0-04762e1f2834")
 	)
-	(label "TX"
+	(label "D6"
 		(at 68.58 82.55 0)
 		(effects
 			(font
@@ -1976,7 +1976,7 @@
 		)
 		(uuid "10198fb6-f256-436e-823c-3bb6c812f1a8")
 	)
-	(label "RX"
+	(label "D7"
 		(at 69.85 95.25 0)
 		(effects
 			(font
@@ -2034,7 +2034,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "41a2306d-c241-4204-a084-a562062b4619")
+		(uuid "41a2306d-c241-4204-a084-a562062b461a")
 	)
 	(label "SEG_F"
 		(at 158.75 80.01 0)
@@ -2044,7 +2044,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "41a2306d-c241-4204-a084-a562062b4619")
+		(uuid "41a2306d-c241-4204-a084-a562062b461b")
 	)
 	(label "SEG_DP2"
 		(at 158.75 87.63 0)
@@ -2054,7 +2054,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "41a2306d-c241-4204-a084-a562062b4619")
+		(uuid "41a2306d-c241-4204-a084-a562062b461c")
 	)
 	(label "SEG_G"
 		(at 158.75 82.55 0)
@@ -2064,7 +2064,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "41a2306d-c241-4204-a084-a562062b4619")
+		(uuid "41a2306d-c241-4204-a084-a562062b461d")
 	)
 	(label "SEG_DP1"
 		(at 158.75 85.09 0)
@@ -2074,7 +2074,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "41a2306d-c241-4204-a084-a562062b4619")
+		(uuid "41a2306d-c241-4204-a084-a562062b461e")
 	)
 	(label "SEG_D"
 		(at 95.25 97.79 180)
@@ -2096,7 +2096,7 @@
 		)
 		(uuid "47dc2906-6c6b-46ec-b699-4383fa3853c8")
 	)
-	(label "MISO"
+	(label "D9"
 		(at 69.85 100.33 0)
 		(effects
 			(font
@@ -2116,7 +2116,7 @@
 		)
 		(uuid "537292e6-7e39-4fc7-995b-4bb4939b3c81")
 	)
-	(label "LSB_SEL"
+	(label "D0"
 		(at 215.9 101.6 0)
 		(effects
 			(font
@@ -2126,7 +2126,7 @@
 		)
 		(uuid "57e379c5-00f6-4e3e-8785-1bb6d27d282d")
 	)
-	(label "A3"
+	(label "D3"
 		(at 68.58 74.93 0)
 		(effects
 			(font
@@ -2154,7 +2154,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a2f")
+		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a30")
 	)
 	(label "SEG_DP1"
 		(at 203.2 85.09 0)
@@ -2164,7 +2164,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a2f")
+		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a31")
 	)
 	(label "SEG_A"
 		(at 203.2 67.31 0)
@@ -2174,7 +2174,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a2f")
+		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a32")
 	)
 	(label "SEG_B"
 		(at 203.2 69.85 0)
@@ -2184,7 +2184,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a2f")
+		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a33")
 	)
 	(label "SEG_C"
 		(at 203.2 72.39 0)
@@ -2194,7 +2194,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a2f")
+		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a34")
 	)
 	(label "SEG_D"
 		(at 203.2 74.93 0)
@@ -2204,7 +2204,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a2f")
+		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a35")
 	)
 	(label "SEG_E"
 		(at 203.2 77.47 0)
@@ -2214,7 +2214,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a2f")
+		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a36")
 	)
 	(label "SEG_F"
 		(at 203.2 80.01 0)
@@ -2224,7 +2224,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a2f")
+		(uuid "67da89b2-6f91-4804-bf35-3e70b9e01a37")
 	)
 	(label "SEG_A"
 		(at 158.75 67.31 0)
@@ -2256,7 +2256,7 @@
 		)
 		(uuid "9c9c6475-2bb8-4e1b-a61c-7fb3f05dde49")
 	)
-	(label "MOSI"
+	(label "D10"
 		(at 69.85 102.87 0)
 		(effects
 			(font
@@ -2266,7 +2266,7 @@
 		)
 		(uuid "a5b329cf-59e4-410e-aa38-c8880cdf1dd7")
 	)
-	(label "SDA"
+	(label "D4"
 		(at 68.58 77.47 0)
 		(effects
 			(font
@@ -2276,7 +2276,7 @@
 		)
 		(uuid "b2753c92-ca7e-4ae9-b326-86d644a23824")
 	)
-	(label "LSB_SEL"
+	(label "D0"
 		(at 68.58 67.31 0)
 		(effects
 			(font
@@ -2296,7 +2296,7 @@
 		)
 		(uuid "c26e63c2-d09a-4d7d-a345-abbb6ae8fabe")
 	)
-	(label "MSB_SEL"
+	(label "D1"
 		(at 68.58 69.85 0)
 		(effects
 			(font
@@ -2316,7 +2316,7 @@
 		)
 		(uuid "dd09903f-243f-4940-bd69-aae16955a989")
 	)
-	(label "MSB_SEL"
+	(label "D1"
 		(at 171.45 101.6 0)
 		(effects
 			(font
@@ -2326,7 +2326,7 @@
 		)
 		(uuid "e5655c8b-ec4d-45bf-8b34-acfe5197fbd5")
 	)
-	(label "SCL"
+	(label "D5"
 		(at 68.58 80.01 0)
 		(effects
 			(font
@@ -2336,7 +2336,7 @@
 		)
 		(uuid "fa2030a2-8384-4b28-bb59-55b90555f5a7")
 	)
-	(label "A2"
+	(label "D2"
 		(at 68.58 72.39 0)
 		(effects
 			(font
